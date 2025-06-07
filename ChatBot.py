@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 # Download required NLTK data
-nltk.download('punkt_tab')  # Changed from 'punkt' to 'punkt_tab'
+nltk.download('punkt_tab')  
 nltk.download('stopwords')
 
 
@@ -14,7 +14,7 @@ faq_data = {
     "How can I contact support?": "You can reach our support team via email at support@example.com or call +1 234 567 890.",
     "Do you offer international shipping?": "Yes, we offer international shipping to all countries.",
     "What payment methods do you accept?": "We accept credit/debit cards, PayPal, and online banking."
-}
+} #Add more questions and answers as needed depending on the business context
 
 
 # Preprocess user input
