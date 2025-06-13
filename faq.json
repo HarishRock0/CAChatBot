@@ -3,6 +3,7 @@
         "hi": "Hello! How can I assist you today?",
         "Where are you located?": "Our headquarters are in New York, but we have offices in multiple countries.",
         "What are your business hours?": "We are open Monday to Friday from 9 AM to 6 PM, and Saturday from 10 AM to 4 PM.",
+        "Thank you for your help!": "You're welcome! If you have any more questions, feel free to ask.",
         "Is my personal information secure?": "Yes, we use encryption and secure payment methods to protect your data."
     },
     "Customer Support & Services": {
@@ -44,4 +45,5 @@
         "Can I cancel my order?": "Orders can be canceled within 24 hours of placing them. Contact support for assistance.",
         "Do you offer bulk discounts?": "Yes, bulk discounts are available for large orders. Contact our sales team for details."
     }
+
 }
