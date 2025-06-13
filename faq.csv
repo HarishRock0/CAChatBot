@@ -1,0 +1,47 @@
+{
+    "General Information": {
+        "hi": "Hello! How can I assist you today?",
+        "Where are you located?": "Our headquarters are in New York, but we have offices in multiple countries.",
+        "What are your business hours?": "We are open Monday to Friday from 9 AM to 6 PM, and Saturday from 10 AM to 4 PM.",
+        "Is my personal information secure?": "Yes, we use encryption and secure payment methods to protect your data."
+    },
+    "Customer Support & Services": {
+        "How can I contact support?": "You can reach our support team via email at support@example.com or call +1 234 567 890.",
+        "Do you have an affiliate program?": "Yes! Our affiliate program allows you to earn commissions by promoting our products.",
+        "Do you have a loyalty program?": "Yes! Our loyalty program rewards frequent customers with discounts and special offers.",
+        "How do I reset my password?": "Go to the login page and click ‘Forgot Password?’ to receive reset instructions via email."
+    },
+    "Orders & Shipping": {
+        "Do you offer international shipping?": "Yes, we provide international shipping to most countries worldwide.",
+        "How long does shipping take?": "Shipping times vary by location. Domestic orders take 3–5 business days; international orders take 7–14 business days.",
+        "Do you offer same-day delivery?": "Yes! Same-day delivery is available for select locations. Check availability at checkout.",
+        "Can I track my order?": "Yes! You can track your order using the tracking number provided in your confirmation email.",
+        "Can I change my shipping address after placing an order?": "Yes, you can change your shipping address within 1 hour of placing the order. Contact support immediately."
+    },
+    "Product Details": {
+        "What is the name of the product?": "The XYZ Phone Pro.",
+        "What are the key features of XYZ Phone Pro?": "It features a 6.7-inch OLED display, 120Hz refresh rate, triple-camera setup, and fast charging.",
+        "What is the battery life?": "The XYZ Phone Pro offers up to 48 hours of battery life on a full charge.",
+        "Does it support wireless charging?": "Yes, it supports wireless charging with compatible Qi chargers.",
+        "Is the phone waterproof?": "Yes, it has an IP68 rating, making it resistant to dust and water."
+    },
+    "Technical Specifications": {
+        "What processor does it use?": "It is powered by the XYZ Bionic Chip for ultra-fast performance.",
+        "How much storage is available?": "It comes in 128GB, 256GB, and 512GB variants.",
+        "What is the camera resolution?": "It features a 50MP main camera, 12MP ultra-wide camera, and 10MP telephoto lens.",
+        "Does it support 5G?": "Yes, the XYZ Phone Pro is compatible with 5G networks for faster connectivity.",
+        "What operating system does it run on?": "It runs on XYZ OS 15 with the latest security updates.",
+        "Does it support expandable storage?": "No, but you can use cloud storage options."
+    },
+    "Pricing & Warranty": {
+        "How much does it cost?": "Prices start at $799 for the base model.",
+        "What payment methods do you accept?": "We accept credit/debit cards, PayPal, online banking, and cryptocurrency payments.",
+        "Is there a warranty?": "Yes, it comes with a 1-year manufacturer warranty.",
+        "What is the warranty on your products?": "Most products come with a 1-year warranty. Check the product page for specific details."
+    },
+    "Returns & Discounts": {
+        "What is your return policy?": "We offer a 30-day return policy for unused and unopened items. For damaged products, contact support.",
+        "Can I cancel my order?": "Orders can be canceled within 24 hours of placing them. Contact support for assistance.",
+        "Do you offer bulk discounts?": "Yes, bulk discounts are available for large orders. Contact our sales team for details."
+    }
+}
